@@ -5,7 +5,7 @@ from aiogram.contrib.middlewares.logging import LoggingMiddleware
 from aiogram.utils.helper import Helper, HelperMode, ListItem
 
 #Token (индивидуальны номер) бота
-BOT_TOKEN = '6061317414:AAE-IoOn0DIgbViciP2DM4JFiEkA-oJAXsU'    
+BOT_TOKEN = '(Your own Token)'    
 
 #Инициализация бота
 rock = Bot(BOT_TOKEN,parse_mode="HTML")
